@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quang
 - 👀 I’m interested in optimaztion and high performance
-- 🌱 I’m currently learning cuda c++ in spare time
+- 🌱 I’m currently learning Rust in spare time
 - 📫 Contact me at: quang.tran.business@gmail.com
 
 <!---
